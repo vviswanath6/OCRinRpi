@@ -1,23 +1,23 @@
 # OCRinRpi
-Optical Character Recognition using Python in Raspberry pi. \
+Optical Character Recognition using Python in Raspberry pi. 
 \
 \
 \
-Input: \
+Input: 
 \
-# OCRtrain.py # \
+OCRtrain.py 
 default input filename - 'traincust11.png'
 \
-# OCRtest.py # \
+# OCRtest.py # 
 default input filename - 'testcust11.png'
 \
 \
-Output: \
+Output: 
 \
-# OCRtrain.py # \
+OCRtrain.py
 default output filenames - 'generalsamples.data' and 'generalresponses.data' 
 \
-# OCRtest.py # \
+OCRtest.py 
 Output shows 'im' and 'out' with recognized text alongside the picture elements.
 
 
