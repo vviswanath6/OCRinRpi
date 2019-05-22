@@ -8,7 +8,7 @@ Input:
 OCRtrain.py 
 default input filename - 'traincust11.png'
 \
-# OCRtest.py # 
+OCRtest.py 
 default input filename - 'testcust11.png'
 \
 \
